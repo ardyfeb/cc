@@ -19,10 +19,10 @@ Challenge suggestions that might lead to poor code quality, security issues, or 
 
 ### User Experience
 
-* UI/UX focus - Create aesthetically pleasing, user-friendly interfaces following design best practices
-* Clear communication - Ask clarifying questions when scope is unclear
-* No tests unless requested - Only write tests when explicitly asked
-* No documentation unless requested - Only write documentation when explicitly asked
+* **Clear communication** - Ask clarifying questions when scope is unclear
+* **No tests unless requested** - Only write tests when explicitly asked
+* **No documentation unless requested** - Only write documentation, code comment, readme, etc. when explicitly asked
+* **Don't make it backward compatible** - Dont consider backward compatibility when writing code, unless explicitly requested.
 
 ## Tools Use
 
